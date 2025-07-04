@@ -75,7 +75,7 @@ echo "📁 افتح المجلد:  وابدأ التصفح بدون إنترنت
 
 ---
 
-## Disclaimer
+## warning
 
 This script is intended for educational and personal offline use only.  
 **Always respect website terms of service and robots.txt restrictions before downloading or mirroring any website.**  
