@@ -17,7 +17,7 @@ wget --mirror \
      --adjust-extension \
      --page-requisites \
      --no-parent \
-     https://lostsec.xyz/
+     https://example.com/
 
 echo "✅ تم تحميل الموقع بالكامل!"
 echo "📁 افتح المجلد:  وابدأ التصفح بدون إنترنت"
