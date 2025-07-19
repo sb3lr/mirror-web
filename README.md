@@ -1,5 +1,5 @@
 
-# Mirror Website Script ```
+# Mirror Website Script
 
 This repository contains a simple Bash script to download a full mirror of any website for offline viewing. It uses the `wget` command with useful options to ensure that all linked pages and resources are saved locally.
 
